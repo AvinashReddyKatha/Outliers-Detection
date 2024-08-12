@@ -1,0 +1,1 @@
+Outliers are data points that are significantly different from the majority of the data in a dataset. They are either much higher or much lower than the other observations and can occur due to variability in the data, measurement errors, or anomalies.
